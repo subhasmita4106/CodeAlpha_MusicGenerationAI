@@ -1,0 +1,6 @@
+{
+  "name": "AuraSynth AI",
+  "description": "An advanced AI-powered music generation and audio synthesis dashboard with real-time training analytics, MIDI preprocessing lab, and interactive piano roll composition studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
